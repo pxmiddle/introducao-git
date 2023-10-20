@@ -1,0 +1,9 @@
+git init -> cria o repositório local
+
+git remote add origin "link do repositório"
+
+git add .(.=adicionar tudo da pasta)
+
+git commit -m "O que mudou"
+
+git push -u origin main
