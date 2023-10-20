@@ -7,3 +7,7 @@ git add .(.=adicionar tudo da pasta)
 git commit -m "O que mudou"
 
 git push -u origin main
+
+agora estamos na branch nova*
+
+git checkout -b dev
